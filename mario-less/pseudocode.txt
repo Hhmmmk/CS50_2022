@@ -1,0 +1,8 @@
+Get user input of height
+
+Check if user input is between 1 and 8
+    Is not less than 1 or not more than 8
+    Repeat till condition is true
+
+Print hashes from 1 to user input height
+
