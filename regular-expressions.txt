@@ -1,0 +1,11 @@
+regular expressions
+
+.       any character
+.*      0 or more charecters
+.+      1 or more characters
+?       optional
+
+^       start of input
+$       end of input
+
+...
